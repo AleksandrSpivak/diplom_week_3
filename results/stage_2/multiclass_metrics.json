@@ -1,0 +1,148 @@
+{
+  "siglip_multiclass": {
+    "overall_accuracy": 0.7904,
+    "macro_f1": 0.7712,
+    "per_class_metrics": {
+      "Catering": {
+        "precision": 0.7611,
+        "recall": 0.956,
+        "f1_score": 0.8475,
+        "support": 500
+      },
+      "Marine_Activities": {
+        "precision": 0.8029,
+        "recall": 0.888,
+        "f1_score": 0.8433,
+        "support": 500
+      },
+      "Cultural_Excursions": {
+        "precision": 0.754,
+        "recall": 0.846,
+        "f1_score": 0.7974,
+        "support": 500
+      },
+      "Pet-Friendly Services": {
+        "precision": 0.9435,
+        "recall": 0.936,
+        "f1_score": 0.9398,
+        "support": 500
+      },
+      "Irrelevant": {
+        "precision": 0.6221,
+        "recall": 0.326,
+        "f1_score": 0.4278,
+        "support": 500
+      }
+    },
+    "confusion_matrix": [
+      [
+        478,
+        3,
+        3,
+        0,
+        16
+      ],
+      [
+        9,
+        444,
+        22,
+        0,
+        25
+      ],
+      [
+        7,
+        19,
+        423,
+        0,
+        51
+      ],
+      [
+        8,
+        7,
+        10,
+        468,
+        7
+      ],
+      [
+        126,
+        80,
+        103,
+        28,
+        163
+      ]
+    ]
+  },
+  "siglip_multiclass_with_filtration": {
+    "overall_accuracy": 0.7788,
+    "macro_f1": 0.7931,
+    "per_class_metrics": {
+      "Catering": {
+        "precision": 0.8776,
+        "recall": 0.76,
+        "f1_score": 0.8146,
+        "support": 500
+      },
+      "Marine_Activities": {
+        "precision": 0.9259,
+        "recall": 0.8,
+        "f1_score": 0.8584,
+        "support": 500
+      },
+      "Cultural_Excursions": {
+        "precision": 0.8674,
+        "recall": 0.746,
+        "f1_score": 0.8022,
+        "support": 500
+      },
+      "Pet-Friendly Services": {
+        "precision": 0.9925,
+        "recall": 0.792,
+        "f1_score": 0.881,
+        "support": 500
+      },
+      "Irrelevant": {
+        "precision": 0.4938,
+        "recall": 0.796,
+        "f1_score": 0.6095,
+        "support": 500
+      }
+    },
+    "confusion_matrix": [
+      [
+        380,
+        0,
+        0,
+        0,
+        120
+      ],
+      [
+        7,
+        400,
+        16,
+        0,
+        77
+      ],
+      [
+        3,
+        7,
+        373,
+        0,
+        117
+      ],
+      [
+        4,
+        6,
+        0,
+        396,
+        94
+      ],
+      [
+        39,
+        19,
+        41,
+        3,
+        398
+      ]
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "best_threshold": 1e-05,
+  "all_results": [
+    {
+      "threshold": 1e-05,
+      "metrics": {
+        "macro_f1": 0.7931,
+        "overall_accuracy": 0.7788,
+        "avg_precision": 0.9158,
+        "avg_recall": 0.7745,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.8776,
+            "recall": 0.76,
+            "f1_score": 0.8146
+          },
+          "Marine_Activities": {
+            "precision": 0.9259,
+            "recall": 0.8,
+            "f1_score": 0.8584
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8674,
+            "recall": 0.746,
+            "f1_score": 0.8022
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9925,
+            "recall": 0.792,
+            "f1_score": 0.881
+          },
+          "Irrelevant": {
+            "precision": 0.4938,
+            "recall": 0.796,
+            "f1_score": 0.6095
+          }
+        }
+      }
+    },
+    {
+      "threshold": 2e-05,
+      "metrics": {
+        "macro_f1": 0.7548,
+        "overall_accuracy": 0.7328,
+        "avg_precision": 0.9252,
+        "avg_recall": 0.7075,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9008,
+            "recall": 0.69,
+            "f1_score": 0.7814
+          },
+          "Marine_Activities": {
+            "precision": 0.9359,
+            "recall": 0.73,
+            "f1_score": 0.8202
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8722,
+            "recall": 0.696,
+            "f1_score": 0.7742
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9917,
+            "recall": 0.714,
+            "f1_score": 0.8302
+          },
+          "Irrelevant": {
+            "precision": 0.4308,
+            "recall": 0.834,
+            "f1_score": 0.5681
+          }
+        }
+      }
+    },
+    {
+      "threshold": 3e-05,
+      "metrics": {
+        "macro_f1": 0.7286,
+        "overall_accuracy": 0.7024,
+        "avg_precision": 0.927,
+        "avg_recall": 0.667,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.8983,
+            "recall": 0.636,
+            "f1_score": 0.7447
+          },
+          "Marine_Activities": {
+            "precision": 0.9388,
+            "recall": 0.706,
+            "f1_score": 0.8059
+          },
+          "Cultural_Excursions": {
+            "precision": 0.88,
+            "recall": 0.66,
+            "f1_score": 0.7543
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9911,
+            "recall": 0.666,
+            "f1_score": 0.7967
+          },
+          "Irrelevant": {
+            "precision": 0.3985,
+            "recall": 0.844,
+            "f1_score": 0.5414
+          }
+        }
+      }
+    },
+    {
+      "threshold": 4e-05,
+      "metrics": {
+        "macro_f1": 0.7099,
+        "overall_accuracy": 0.6808,
+        "avg_precision": 0.933,
+        "avg_recall": 0.6365,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9086,
+            "recall": 0.616,
+            "f1_score": 0.7342
+          },
+          "Marine_Activities": {
+            "precision": 0.95,
+            "recall": 0.684,
+            "f1_score": 0.7953
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8799,
+            "recall": 0.63,
+            "f1_score": 0.7343
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9935,
+            "recall": 0.616,
+            "f1_score": 0.7605
+          },
+          "Irrelevant": {
+            "precision": 0.3786,
+            "recall": 0.858,
+            "f1_score": 0.5254
+          }
+        }
+      }
+    },
+    {
+      "threshold": 5e-05,
+      "metrics": {
+        "macro_f1": 0.6968,
+        "overall_accuracy": 0.666,
+        "avg_precision": 0.9369,
+        "avg_recall": 0.6145,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9121,
+            "recall": 0.602,
+            "f1_score": 0.7253
+          },
+          "Marine_Activities": {
+            "precision": 0.9563,
+            "recall": 0.656,
+            "f1_score": 0.7782
+          },
+          "Cultural_Excursions": {
+            "precision": 0.886,
+            "recall": 0.606,
+            "f1_score": 0.7197
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9933,
+            "recall": 0.594,
+            "f1_score": 0.7434
+          },
+          "Irrelevant": {
+            "precision": 0.3676,
+            "recall": 0.872,
+            "f1_score": 0.5172
+          }
+        }
+      }
+    },
+    {
+      "threshold": 6e-05,
+      "metrics": {
+        "macro_f1": 0.6825,
+        "overall_accuracy": 0.6508,
+        "avg_precision": 0.94,
+        "avg_recall": 0.592,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.918,
+            "recall": 0.582,
+            "f1_score": 0.7124
+          },
+          "Marine_Activities": {
+            "precision": 0.9577,
+            "recall": 0.634,
+            "f1_score": 0.7629
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8916,
+            "recall": 0.592,
+            "f1_score": 0.7115
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9929,
+            "recall": 0.56,
+            "f1_score": 0.7161
+          },
+          "Irrelevant": {
+            "precision": 0.3578,
+            "recall": 0.886,
+            "f1_score": 0.5098
+          }
+        }
+      }
+    },
+    {
+      "threshold": 7e-05,
+      "metrics": {
+        "macro_f1": 0.6697,
+        "overall_accuracy": 0.6372,
+        "avg_precision": 0.9415,
+        "avg_recall": 0.5735,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9236,
+            "recall": 0.556,
+            "f1_score": 0.6941
+          },
+          "Marine_Activities": {
+            "precision": 0.9598,
+            "recall": 0.62,
+            "f1_score": 0.7533
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8899,
+            "recall": 0.582,
+            "f1_score": 0.7037
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9926,
+            "recall": 0.536,
+            "f1_score": 0.6961
+          },
+          "Irrelevant": {
+            "precision": 0.3487,
+            "recall": 0.892,
+            "f1_score": 0.5014
+          }
+        }
+      }
+    },
+    {
+      "threshold": 8e-05,
+      "metrics": {
+        "macro_f1": 0.6621,
+        "overall_accuracy": 0.6292,
+        "avg_precision": 0.9448,
+        "avg_recall": 0.5615,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9273,
+            "recall": 0.536,
+            "f1_score": 0.6793
+          },
+          "Marine_Activities": {
+            "precision": 0.9655,
+            "recall": 0.616,
+            "f1_score": 0.7521
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8938,
+            "recall": 0.572,
+            "f1_score": 0.6976
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9924,
+            "recall": 0.522,
+            "f1_score": 0.6841
+          },
+          "Irrelevant": {
+            "precision": 0.3438,
+            "recall": 0.9,
+            "f1_score": 0.4975
+          }
+        }
+      }
+    },
+    {
+      "threshold": 9e-05,
+      "metrics": {
+        "macro_f1": 0.6518,
+        "overall_accuracy": 0.6188,
+        "avg_precision": 0.9468,
+        "avg_recall": 0.546,
+        "per_class_metrics": {
+          "Catering": {
+            "precision": 0.9253,
+            "recall": 0.52,
+            "f1_score": 0.6658
+          },
+          "Marine_Activities": {
+            "precision": 0.9713,
+            "recall": 0.61,
+            "f1_score": 0.7494
+          },
+          "Cultural_Excursions": {
+            "precision": 0.8987,
+            "recall": 0.55,
+            "f1_score": 0.6824
+          },
+          "Pet-Friendly Services": {
+            "precision": 0.9921,
+            "recall": 0.504,
+            "f1_score": 0.6684
+          },
+          "Irrelevant": {
+            "precision": 0.3383,
+            "recall": 0.91,
+            "f1_score": 0.4932
+          }
+        }
+      }
+    }
+  ]
+}

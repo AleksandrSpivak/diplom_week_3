@@ -1,0 +1,38 @@
+{
+  "Catering": [
+    "Food",
+    "Drink",
+    "Restaurant",
+    "Plate",
+    "Fork",
+    "Spoon",
+    "Fast food",
+    "Person",
+    "Man",
+    "Woman"
+  ],
+  "Marine_Activities": [
+    "Boat",
+    "Sailboat",
+    "Sea",
+    "Ocean",
+    "Beach",
+    "Anchor",
+    "Clothing",
+    "Vehicle"
+  ],
+  "Cultural_Excursions": [
+    "Museum",
+    "Monument",
+    "Art",
+    "Building",
+    "Tree",
+    "Plant"
+  ],
+  "Pet-Friendly Services": [
+    "Pet",
+    "Animal",
+    "Kitten",
+    "Puppy"
+  ]
+}

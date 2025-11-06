@@ -1,0 +1,5151 @@
+{
+  "Pet-Friendly Services": [
+    {
+      "image": "68f8e5576c44524375bcc82f.jpg",
+      "detected_objects": [],
+      "caption": "a small child with a hat and a towel",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc83f.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a santa claus costume standing in a living room",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc840.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is sitting on a bed with stuffed animals",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc91d.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a woman sitting on the floor with a dog",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc91e.jpg",
+      "detected_objects": [],
+      "caption": "a col of photos of people and animals",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc91f.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a man holding a cat in his arms",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc920.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a woman sitting on the ground with a dog",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc921.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a small animal",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc922.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat sitting on top of a desk",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc923.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting in a chair on a porch",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc924.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog laying on top of a red couch",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc925.jpg",
+      "detected_objects": [],
+      "caption": "a window with a sticker of a bee on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc926.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog laying on a couch with a blanket",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc927.jpg",
+      "detected_objects": [],
+      "caption": "a small fig of a man",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcc928.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog is standing in a room with a door",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc929.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a baby and a dog playing together",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc92a.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat sitting on a chair looking out a window",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc92b.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a black and white dog laying in the grass",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc92c.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat sitting on the floor in front of people",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcc9ff.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a person holding a picture frame with a dog",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca00.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog is walking on the street in front of a building",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca01.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a black and white dog laying on a rug",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca02.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog laying on a blanket",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca03.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat looking out the window of a boat",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca04.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat and a mouse on a mouse pad",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca05.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a girl holding a cat in her arms",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca06.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting on a red carpet next to a woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcca07.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a cat and a dog are sitting in a chair",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca08.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a man is playing with a cat on a couch",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca09.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is sitting on the floor next to a mouse",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca0a.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a dog laying on the ground with its head on a cat",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca0b.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat walking down a sidewalk in a city",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca0c.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a blue dress and hat holding a teddy bear",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcca0d.jpg",
+      "detected_objects": [],
+      "caption": "a young boy holding a baby goat",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcca0e.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat laying in the grass",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca0f.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat laying on a red chair",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca10.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog laying on the ground",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca11.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "two dogs are standing outside of a brick building",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca12.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat laying on the floor with a toy",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca13.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat laying on a chair with its head on the back",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca14.jpg",
+      "detected_objects": [],
+      "caption": "a living room with a couch and a chair",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bcca15.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is sitting on the grass outside of a house",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca16.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "two dogs laying on the street in front of a building",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca17.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat laying on the floor in a room",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca18.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a painting of a man with a dog",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca19.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a man sitting on a swing with a dog",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bcca1a.jpg",
+      "detected_objects": [],
+      "caption": "a group of children playing with legos",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb6b.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a person holding a cat in a mirror",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb6c.jpg",
+      "detected_objects": [],
+      "caption": "a small animal walking on a rocky surface",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb6d.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a man laying on top of a cat",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb6e.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is looking out of a car window",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb6f.jpg",
+      "detected_objects": [],
+      "caption": "a group of children standing in a gym",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb70.jpg",
+      "detected_objects": [],
+      "caption": "a close up of a horse ' s eye",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb71.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "two cats are laying on the floor together",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb72.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a man is petting a cat in a cage",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb73.jpg",
+      "detected_objects": [],
+      "caption": "a woman is being pulled by a man on the ground",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb74.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a small dog standing on the steps of a building",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb75.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "two cats playing in the snow outside",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb76.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a young boy laying on a bed with a cat",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb77.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat in a costume",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb78.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat sitting on a table with a christmas tree",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb79.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat and a cat are in the grass",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb7a.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a small dog is sitting next to a small child",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb7b.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a dog and cat laying on a bed",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb7c.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a cat and a dog are laying on a couch",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb7d.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog standing in the grass next to a tree",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb7e.jpg",
+      "detected_objects": [],
+      "caption": "a white rabbit sitting in a cage",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb7f.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a white cat with a blue background",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb80.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman holding a kitten in a kitchen",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb81.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat sitting on a table with a chain",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb82.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a black cat sitting on a desk",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb83.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat ' s paw is seen in this black and white photograph",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb84.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is sitting on the floor next to a person",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb85.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a dog is jumping up the curtain to catch a frur",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb86.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is looking at a fish in a pond",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb87.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog sitting on the floor in front of a desk",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb88.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a black and white cat with a white stripe",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb89.jpg",
+      "detected_objects": [],
+      "caption": "a park with a tree and leaves on the ground",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb8a.jpg",
+      "detected_objects": [],
+      "caption": "a person holding a piece of a white glove",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb8b.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog is walking down the sidewalk in front of a store",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb8c.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a black cat is jumping in the air",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb8d.jpg",
+      "detected_objects": [],
+      "caption": "a stuffed rabbit is sitting on a blanket",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb8e.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a cat is standing on a wooden floor",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb8f.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a cat and a dog are cuddled together",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb90.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a cat and a dog are laying on a chair",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb91.jpg",
+      "detected_objects": [],
+      "caption": "a group of people sitting in a room",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb92.jpg",
+      "detected_objects": [],
+      "caption": "a wooden bear holding up a sign that says open",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb93.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a cat and a dog laying on a tiled floor",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb94.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a black cat is sitting on a ledge",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb95.jpg",
+      "detected_objects": [],
+      "caption": "a person walking on a tiled floor",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccb96.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog is looking out the window at a person",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb97.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "two cats sleeping on a chair",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb98.jpg",
+      "detected_objects": [
+        "Dog",
+        "Cat"
+      ],
+      "caption": "a dog and a cat are laying on a stone",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb99.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a man feeding his cats in a courtyard",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb9a.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a couple of people on horses with dogs",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb9b.jpg",
+      "detected_objects": [
+        "Dog"
+      ],
+      "caption": "a dog is standing in the snow near a clock",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccb9c.jpg",
+      "detected_objects": [],
+      "caption": "a man in a green shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccd60.jpg",
+      "detected_objects": [],
+      "caption": "a goat behind a fence looking through the bars",
+      "label": 0
+    },
+    {
+      "image": "68f8e5586c44524375bccd61.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a white cat laying on a table",
+      "label": 1
+    },
+    {
+      "image": "68f8e5586c44524375bccd62.jpg",
+      "detected_objects": [
+        "Cat"
+      ],
+      "caption": "a black cat laying on a green and white blanket",
+      "label": 1
+    },
+    {
+      "image": "68f8e57a6c44524375bcd35e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a hat and some kids",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd37a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a police officer standing in front of a car",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd37b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a boat on the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd37e_neg.jpg",
+      "detected_objects": [],
+      "caption": "two people on a sail in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd473_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a wave on a surfboard",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd474_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with a taco on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd475_neg.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man and woman sitting on a rock",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd476_neg.jpg",
+      "detected_objects": [],
+      "caption": "the ruins of the ancient city of pomp",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd477_neg.jpg",
+      "detected_objects": [],
+      "caption": "the water is blue",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd478_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting at a desk with a laptop",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd479_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing in front of a large brick building",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a red swimsuit holding a baby",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large green bush",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll with a pink hair and blue eyes",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a woman ' s face on a wall",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a sculpture of a woman ' s head",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd47f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a little boy and girl are looking at a pirate ship cake",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd480_neg.jpg",
+      "detected_objects": [],
+      "caption": "a stuffed animal sitting in the passenger seat of a bus",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd481_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man pushing a red cart down the street",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd483_neg.jpg",
+      "detected_objects": [],
+      "caption": "a display of jars of pickles and peppers",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd484_neg.jpg",
+      "detected_objects": [],
+      "caption": "a row of bikes",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd485_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pan of food that is being prepared",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd486_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd487_neg.jpg",
+      "detected_objects": [],
+      "caption": "a painting of a monkey with a pink scarf",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd488_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people in a car with a church in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd489_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people on surfboards in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48a_neg.jpg",
+      "detected_objects": [],
+      "caption": "gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a bike down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of police officers",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a lot of windows",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a hand holding a hammer over a pig",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd48f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a soccer field with buildings in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd490_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat docked in the water with other boats in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd491_neg.jpg",
+      "detected_objects": [],
+      "caption": "a city with lots of buildings and trees",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd492_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a kayak paddling on a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd494_neg.jpg",
+      "detected_objects": [],
+      "caption": "a drawing of a couple kissing",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd495_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd496_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lighthouse in the middle of the ocean with a large wave crashing over it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd497_neg.jpg",
+      "detected_objects": [],
+      "caption": "a hamburger on a tray",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd498_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large tent with people standing around it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd499_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting on the floor",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd49a_neg.jpg",
+      "detected_objects": [],
+      "caption": "the painting of the artist, the artist ' s wife and her husband, the artist ' s wife",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd671_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy figure of a woman holding a banana",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd672_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man fishing in the water at the beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd673_neg.jpg",
+      "detected_objects": [],
+      "caption": "a view of a town",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd674_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate with a dessert and a dessert on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd675_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman swinging a tennis racket at a tennis court",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd676_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large white ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd677_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd679_neg.jpg",
+      "detected_objects": [],
+      "caption": "the eiff tower in paris",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd67a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a shelf with a bunch of bread on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd67b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a statue in the temple",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd67c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man standing in front of a lighthouse",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd67d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a little girl is playing with a ball",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd67e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a hill with a castle on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd680_neg.jpg",
+      "detected_objects": [],
+      "caption": "a blue bike parked in front of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd681_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bottle of corona corona beer sitting on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd682_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tree with no leaves",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd683_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large white cruise ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd684_neg.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd685_neg.jpg",
+      "detected_objects": [],
+      "caption": "a beach with boats and people on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd686_neg.jpg",
+      "detected_objects": [],
+      "caption": "a yellow building",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd687_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man standing on a boat in a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd689_neg.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man holding a bird",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd68a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a gondola",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd68c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman riding a scoote on a scoote",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd68d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of stuffed teddy bears sitting on a wooden pole",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd68e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a blue dress holding a cake",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd68f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and yellow bag",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd690_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with a red flower on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd692_neg.jpg",
+      "detected_objects": [],
+      "caption": "a baby in a hospital bed with a pac",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd693_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white bird floating in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd694_neg.jpg",
+      "detected_objects": [],
+      "caption": "a church tower towering over a row of buildings",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd695_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a pink dress and black tights",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd696_neg.jpg",
+      "detected_objects": [],
+      "caption": "a sand sculpture of a man with a hat on",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd697_neg.jpg",
+      "detected_objects": [],
+      "caption": "a close up of a piece of metal",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd698_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting at a picnic table with a laptop",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd699_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lego house with a fire hydra and a fire hydra",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a table full of legos",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person riding a bike on a snowy road",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69c_neg.jpg",
+      "detected_objects": [],
+      "caption": "the new land rover range rover range rover range rover range rover range rover range rover range rover range rover range",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman riding a yellow bike down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a baby laying in a cribt",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd69f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pink and white building",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bottle of wine with a label on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a castle is seen through the trees",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small plane flying in the sky",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white pitcher and a green tea cup on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a blue jacket is talking to a woman on a motorcycle",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting at a window looking out",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6a9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a fish swimming in the water near some rocks",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6aa_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cookie with a biter",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6ab_neg.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a woman holding a butterfly",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6ac_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman are smiling at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6ae_neg.jpg",
+      "detected_objects": [],
+      "caption": "a couple of stuffed animals sitting on a chair",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6af_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat in the water near a rocky cliff",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6b0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a view of a lake and a house",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6b1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man laying on the hollywood walk of fame",
+      "label": 0
+    },
+    {
+      "image": "68f8e57a6c44524375bcd6b2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing on a sidewalk talking on a cell",
+      "label": 0
+    }
+  ],
+  "Catering": [
+    {
+      "image": "68f8e5c06c44524375bce1dd.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a glass of wine on a table with a bottle of wine in the background",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce202.jpg",
+      "detected_objects": [],
+      "caption": "a square white plate",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce203.jpg",
+      "detected_objects": [
+        "Dessert"
+      ],
+      "caption": "a plate with some desserts on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce204.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a bottle of wine and two glasses of wine",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce205.jpg",
+      "detected_objects": [
+        "Cheese",
+        "Pizza"
+      ],
+      "caption": "a pizza with mushrooms and cheese on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce206.jpg",
+      "detected_objects": [],
+      "caption": "a table with a plate of food and glasses of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce31a.jpg",
+      "detected_objects": [],
+      "caption": "a plate of cookies with powdered sugar on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce31b.jpg",
+      "detected_objects": [],
+      "caption": "a glass of lemonade next to a lemon",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce31c.jpg",
+      "detected_objects": [],
+      "caption": "a white plate with a macaroe and a macaroe",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce31d.jpg",
+      "detected_objects": [
+        "Wine",
+        "Wine glass"
+      ],
+      "caption": "a table with a wine glass and a candle",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce31e.jpg",
+      "detected_objects": [
+        "Pizza"
+      ],
+      "caption": "a man sitting at a table with a pizza and a pizza",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce31f.jpg",
+      "detected_objects": [],
+      "caption": "a person holding a cigar in front of a laptop",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce320.jpg",
+      "detected_objects": [
+        "Hamburger"
+      ],
+      "caption": "a hamburger with fries and a cup of sauce",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce321.jpg",
+      "detected_objects": [],
+      "caption": "a small child riding a small motorcycle",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce322.jpg",
+      "detected_objects": [],
+      "caption": "a pie with a face on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce323.jpg",
+      "detected_objects": [],
+      "caption": "a person holding a sandwich with lete and lete",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce324.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a plate of food with a sandwich and a bowl of dipping",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce325.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of fruit and ice cream with a spoon",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce326.jpg",
+      "detected_objects": [
+        "Hamburger"
+      ],
+      "caption": "a person holding three hamburgers in their hands",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce327.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a woman in a blue dress holding a cake",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce328.jpg",
+      "detected_objects": [],
+      "caption": "a man in a white shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce329.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of green and white signs on a set of stairs",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce32a.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a kimono costume",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce32b.jpg",
+      "detected_objects": [],
+      "caption": "shrimp sked on the grill",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce32c.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a wine cooler with bottles of wine in it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce32d.jpg",
+      "detected_objects": [],
+      "caption": "a plate of cooked craws with corn and corn",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce32e.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a table with cakes and other items in the window",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce32f.jpg",
+      "detected_objects": [],
+      "caption": "a white counter",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce330.jpg",
+      "detected_objects": [
+        "Beer"
+      ],
+      "caption": "a table with a plate of food and a glass of beer",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce331.jpg",
+      "detected_objects": [],
+      "caption": "two men sitting at a table talking",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce332.jpg",
+      "detected_objects": [
+        "Coffee"
+      ],
+      "caption": "a glass of coffee with a spoon in it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce333.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with a lobster and corn",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce334.jpg",
+      "detected_objects": [],
+      "caption": "a display case filled with different colored ice creams",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce335.jpg",
+      "detected_objects": [],
+      "caption": "a woman with blonde hair",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce336.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a table with fish",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce337.jpg",
+      "detected_objects": [
+        "Hamburger"
+      ],
+      "caption": "a hamburger with a side of fries",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce338.jpg",
+      "detected_objects": [],
+      "caption": "a table topped with plates of food and drinks",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce339.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a group of people standing around a table with bottles of wine",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce33a.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman sitting at a table eating food",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce33b.jpg",
+      "detected_objects": [],
+      "caption": "a group of people sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce33c.jpg",
+      "detected_objects": [],
+      "caption": "a man in a suit and tie sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce33d.jpg",
+      "detected_objects": [],
+      "caption": "a plate with some food on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce33e.jpg",
+      "detected_objects": [
+        "Cocktail"
+      ],
+      "caption": "a table topped with a cocktail glass filled with a red drink",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce33f.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of soup with a spoon and a spoon",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c06c44524375bce340.jpg",
+      "detected_objects": [],
+      "caption": "a white ice cream cone with a black background",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c06c44524375bce341.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a plate of food on a table with a glass of wine",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4d8.jpg",
+      "detected_objects": [],
+      "caption": "three girls sitting on a couch",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4d9.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a table with bowls of food and bowls of sauces",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4da.jpg",
+      "detected_objects": [
+        "Beer"
+      ],
+      "caption": "three people are sitting at a table with beer bottles",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4db.jpg",
+      "detected_objects": [],
+      "caption": "a plate with three rolls on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4dc.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4dd.jpg",
+      "detected_objects": [
+        "Cheese"
+      ],
+      "caption": "a pile of cheese",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4de.jpg",
+      "detected_objects": [
+        "Salad"
+      ],
+      "caption": "a plate of food with a salad on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4df.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e0.jpg",
+      "detected_objects": [
+        "Beer"
+      ],
+      "caption": "a glass of beer sitting on a desk",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e1.jpg",
+      "detected_objects": [],
+      "caption": "a close up of a chocolate covered muffin",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e2.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a cake with strawberries and strawberries on top",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e3.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of ice cream on a table",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e4.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e5.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting at a desk with a laptop",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e6.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a red bowl filled with white liquid and a spoon",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e7.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a glass of wine and a bottle of wine on a table",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e8.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman eating food at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4e9.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a wooden table topped with bowls of food",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ea.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a girl is holding a bowl of food",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4eb.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let let",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ec.jpg",
+      "detected_objects": [],
+      "caption": "two women standing next to each other woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ed.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of liquid with a spoon in it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ee.jpg",
+      "detected_objects": [
+        "Cheese"
+      ],
+      "caption": "a wooden cutting board with a piece of cheese, grapes and a piece of cheese",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ef.jpg",
+      "detected_objects": [
+        "Coffee"
+      ],
+      "caption": "a cup of coffee and a plate of food",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f0.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of muffins on a rack",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f1.jpg",
+      "detected_objects": [],
+      "caption": "a group of people sitting around a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f2.jpg",
+      "detected_objects": [],
+      "caption": "three girls are holding cotton balls in their hands",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f3.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a plate of fish on a table with a bowl of sauce",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f4.jpg",
+      "detected_objects": [],
+      "caption": "a small box with a cigarette and a cup",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f5.jpg",
+      "detected_objects": [],
+      "caption": "a man covered in mud and paint at the annual festival",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f6.jpg",
+      "detected_objects": [
+        "Wine",
+        "Bowl",
+        "Bread"
+      ],
+      "caption": "a table with a bowl of bread and a bottle of wine",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f7.jpg",
+      "detected_objects": [],
+      "caption": "a white plate topped with a piece of chicken and green beans",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f8.jpg",
+      "detected_objects": [],
+      "caption": "a metal bucket with a logo on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4f9.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of noodles with meat and vegetables",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4fa.jpg",
+      "detected_objects": [
+        "Bread"
+      ],
+      "caption": "a plate of food with meat and bread",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4fb.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a little girl holding a cake with a red and white frosting",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4fc.jpg",
+      "detected_objects": [
+        "Coffee"
+      ],
+      "caption": "a coffee maker and a cup of coffee",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4fd.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with rice and vegetables",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce4fe.jpg",
+      "detected_objects": [
+        "Beer"
+      ],
+      "caption": "a woman sitting at a table with a bottle of beer",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce4ff.jpg",
+      "detected_objects": [],
+      "caption": "a pumpkin with a horse on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce500.jpg",
+      "detected_objects": [],
+      "caption": "a table with plates of food and drinks",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce501.jpg",
+      "detected_objects": [
+        "Coffee"
+      ],
+      "caption": "a plate of food with a cup of coffee",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce502.jpg",
+      "detected_objects": [],
+      "caption": "a close up of a piece of green food",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce503.jpg",
+      "detected_objects": [],
+      "caption": "a person is putting a piece of food into a plate",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce504.jpg",
+      "detected_objects": [],
+      "caption": "a tray of pastries with powdered sugar and strawberrys",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce505.jpg",
+      "detected_objects": [],
+      "caption": "a plate with suki and vegetables on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce506.jpg",
+      "detected_objects": [
+        "Dessert"
+      ],
+      "caption": "a plate with a dessert on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce507.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a cake with a dragon on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce508.jpg",
+      "detected_objects": [
+        "Cake"
+      ],
+      "caption": "a woman sitting at a table eating a piece of cake",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce509.jpg",
+      "detected_objects": [],
+      "caption": "a close up of a tooth with a tooth",
+      "label": 0
+    },
+    {
+      "image": "68f8e5c16c44524375bce50a.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of clams with a lot of clams",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce50b.jpg",
+      "detected_objects": [
+        "Bread"
+      ],
+      "caption": "a pink plate with slices of bread and bananas",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce50c.jpg",
+      "detected_objects": [
+        "Pasta"
+      ],
+      "caption": "a plate of pasta with an egg on top",
+      "label": 1
+    },
+    {
+      "image": "68f8e5c16c44524375bce50d.jpg",
+      "detected_objects": [],
+      "caption": "a cup and saucer on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceb59_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy car with a camera on the back",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceb71_neg.jpg",
+      "detected_objects": [],
+      "caption": "a clay head",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceb72_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceb73_neg.jpg",
+      "detected_objects": [],
+      "caption": "a newspaper article with a picture of a man and woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceb74_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people walking down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec5c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a statue of three men",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec5d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a living room with a couch and a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec5e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing on a beach with a colorful umbrella",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec5f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lighthouse on the shore of a small town",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec60_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tree behind a fence",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec61_neg.jpg",
+      "detected_objects": [
+        "Wine"
+      ],
+      "caption": "a black wine cooler sitting on top of a wooden table",
+      "label": 1
+    },
+    {
+      "image": "68f8e5e66c44524375bcec62_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man laying on a couch with a dog and cat",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec63_neg.jpg",
+      "detected_objects": [],
+      "caption": "a church with a tower and a graveyard",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec64_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a fish on a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec65_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large brick building",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec66_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lego star wars trooper holding a gun",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec67_neg.jpg",
+      "detected_objects": [],
+      "caption": "a couple walking down a path next to a tree",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec68_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a green shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec69_neg.jpg",
+      "detected_objects": [],
+      "caption": "a set of three figuris with a dog and a girl",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people on bikes waiting for a ride",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6b_neg.jpg",
+      "detected_objects": [],
+      "caption": "three men are posing with their bikes",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6c_neg.jpg",
+      "detected_objects": [],
+      "caption": "the leaning tower of pisa",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman and a child sitting in front of a large statue",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of action figures",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec6f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman on a bike on a beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec70_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate with a fork and knife on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec71_neg.jpg",
+      "detected_objects": [],
+      "caption": "a fish in a tank",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec72_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat sitting on a stone wall",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec73_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting on a rock with a dog",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec74_neg.jpg",
+      "detected_objects": [],
+      "caption": "a baby with a black and white photo of her face",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec75_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog wearing a vest and a red bow tie",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec76_neg.jpg",
+      "detected_objects": [],
+      "caption": "man wearing a green shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec77_neg.jpg",
+      "detected_objects": [],
+      "caption": "a young girl riding a scoot on a scoot",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec78_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a wet suit surfing on a wave",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec79_neg.jpg",
+      "detected_objects": [],
+      "caption": "the tower of the church of the holy trinity, jerusalem, israel",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec7a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman with a necklace on her neck",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bcec7b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a wheelchair with a red flag",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced56_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat in the ocean at sunset",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced57_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat docked in the water with a cloudy sky",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced58_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of pup",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced5a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll with a green jacket and red flower",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced5b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man with a beard",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced5c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of cyclists riding down a road",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced5d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of stuffed teddy bears sitting on a wooden pole",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced5e_neg.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a plate of food on a table with a bowl of sauce",
+      "label": 1
+    },
+    {
+      "image": "68f8e5e66c44524375bced5f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person in white gloves is preparing food",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced60_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll is standing in front of a painting",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced61_neg.jpg",
+      "detected_objects": [],
+      "caption": "two elephants are sitting on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced62_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white board with writing on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced63_neg.jpg",
+      "detected_objects": [],
+      "caption": "a little girl sitting in a pool chair",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced65_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat is sitting in a drawer with clothes",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced67_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a pink shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced68_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large group of people",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced69_neg.jpg",
+      "detected_objects": [],
+      "caption": "a stuffed dog is sitting on a porch",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in an orange jacket is walking down the street",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a sign on a wall with a picture of a man",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small yellow and black toy sitting on a white surface",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person holding a cell phone on a beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy is standing in the water with a flock of birds nearby",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced6f_neg.jpg",
+      "detected_objects": [],
+      "caption": "two green parrots sitting on a branch",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced71_neg.jpg",
+      "detected_objects": [],
+      "caption": "the oasis on oasis cruise at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced72_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white drawing of two men",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced73_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man is pointing a gun at a cannon",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced74_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog and a cat are sitting on a couch",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced75_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white cat sitting on a blue door",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced76_neg.jpg",
+      "detected_objects": [],
+      "caption": "a canal with buildings and a boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced77_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large building with a clock on top of it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced78_neg.jpg",
+      "detected_objects": [],
+      "caption": "a church with a steeple and a steeple on the front",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced79_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lego airplane with a lego plane on top of it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced7a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a piece of metal",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bced7b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a wall with posters and advertisements on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceea0_neg.jpg",
+      "detected_objects": [],
+      "caption": "two men in a swimming pool",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceea1_neg.jpg",
+      "detected_objects": [],
+      "caption": "the statue of liberty",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e66c44524375bceea2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a sculpture of a man sitting on a rock",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man climbing up a steep in the mountains",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a city skyline with a few buildings and a bird flying over it",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large white boat in the water near a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large cruise ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a display of memorabilia",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceea9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a clock tower on top of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeaa_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person is laying on the floor with a stuffed animal",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeab_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small gnome fig",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeac_neg.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a bowl of food with meat and vegetables",
+      "label": 1
+    },
+    {
+      "image": "68f8e5e76c44524375bceead_neg.jpg",
+      "detected_objects": [],
+      "caption": "the cover of the first book in the series, the first book in the series, is a picture of",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeae_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog is sitting on a chair in a room",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeaf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black cat sitting on a pink blanket",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tall tower with a clock on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bird is sitting on top of a fountain",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll wearing a black hat and a red dress",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black cat with its mouth open and its tongue out",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white and black sea slug on the reef",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a donkey is walking down the street in front of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeb9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man with a tattoo on his chest",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceeba_neg.jpg",
+      "detected_objects": [],
+      "caption": "a church lit up at night with people walking around",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceebb_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceebc_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll sitting on top of a red fire hydra",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceebd_neg.jpg",
+      "detected_objects": [],
+      "caption": "the empire building in midtown, new york",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceebe_neg.jpg",
+      "detected_objects": [
+        "Bowl"
+      ],
+      "caption": "a tray with a bowl of rice, a bowl of soup, and a bowl of rice",
+      "label": 1
+    },
+    {
+      "image": "68f8e5e76c44524375bceebf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bust of a man with a head in a box",
+      "label": 0
+    },
+    {
+      "image": "68f8e5e76c44524375bceec0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a castle with a quote on it",
+      "label": 0
+    }
+  ],
+  "Marine_Activities": [
+    {
+      "image": "68f8e6336c44524375bcfa11.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man riding a wave on a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfa60.jpg",
+      "detected_objects": [],
+      "caption": "a man windsurfining in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfa61.jpg",
+      "detected_objects": [],
+      "caption": "a yellow and white boat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfa62.jpg",
+      "detected_objects": [],
+      "caption": "a man is paddling in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfa63.jpg",
+      "detected_objects": [],
+      "caption": "a man surfing in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfa64.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a woman riding a wave on a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfb94.jpg",
+      "detected_objects": [],
+      "caption": "a couple of people in the ocean with a dog",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb95.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man riding a wave on a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfb96.jpg",
+      "detected_objects": [],
+      "caption": "two young boys hugging on the beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb97.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man riding a wave on top of a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfb98.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man walking on the beach with a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfb99.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9a.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing on a beach with a colorful umbrella",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9b.jpg",
+      "detected_objects": [],
+      "caption": "a boat is in the water with a flag on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9c.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a large square shaped structure",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9d.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in the water near a bridge",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9e.jpg",
+      "detected_objects": [],
+      "caption": "a ship is sitting on the rocks near the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfb9f.jpg",
+      "detected_objects": [],
+      "caption": "a white boat docked at a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba0.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in the water near a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba1.jpg",
+      "detected_objects": [],
+      "caption": "a river with boats",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba2.jpg",
+      "detected_objects": [],
+      "caption": "a large white boat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba3.jpg",
+      "detected_objects": [
+        "Paddle"
+      ],
+      "caption": "two people paddled on their surf boards in the ocean",
+      "label": 1
+    },
+    {
+      "image": "68f8e6336c44524375bcfba4.jpg",
+      "detected_objects": [],
+      "caption": "a boat is speeding through the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba5.jpg",
+      "detected_objects": [],
+      "caption": "a model of a satellite on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba6.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing on a deck of a cruise ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba7.jpg",
+      "detected_objects": [],
+      "caption": "a boat is traveling on the water with a small island in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba8.jpg",
+      "detected_objects": [],
+      "caption": "boats docked at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfba9.jpg",
+      "detected_objects": [],
+      "caption": "a group of people riding water skis on a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbaa.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a lighthouse",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbab.jpg",
+      "detected_objects": [],
+      "caption": "a boat is in the water near a rocky island",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbac.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in a marina with mountains in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbad.jpg",
+      "detected_objects": [],
+      "caption": "a man in a boat with a sail",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbae.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting in a boat with a man on the side",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbaf.jpg",
+      "detected_objects": [],
+      "caption": "a surfer rides a wave",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbb0.jpg",
+      "detected_objects": [],
+      "caption": "a clock tower in a harbor with a crowd of people",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbb1.jpg",
+      "detected_objects": [],
+      "caption": "a large boat docked in a harbor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbb2.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of boats docked in a harbor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbb3.jpg",
+      "detected_objects": [],
+      "caption": "a sailer in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6336c44524375bcfbb4.jpg",
+      "detected_objects": [],
+      "caption": "a man in a wet suit surfing on a wave",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcdc.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked on the water in a city",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcdd.jpg",
+      "detected_objects": [],
+      "caption": "an old battleship is being moved into the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcde.jpg",
+      "detected_objects": [],
+      "caption": "a large boat docked in a harbor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcdf.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a pool",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce0.jpg",
+      "detected_objects": [],
+      "caption": "the water is chop",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce1.jpg",
+      "detected_objects": [],
+      "caption": "a boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce2.jpg",
+      "detected_objects": [],
+      "caption": "a bus is parked on the side of a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce3.jpg",
+      "detected_objects": [],
+      "caption": "a man on a surf board riding a wave",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce4.jpg",
+      "detected_objects": [],
+      "caption": "a truck is parked on the side of a road",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce5.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman on a boat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce6.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man riding a wave on a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6346c44524375bcfce7.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a blue dress posing for the camera",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce8.jpg",
+      "detected_objects": [],
+      "caption": "a boat is in the water near a beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfce9.jpg",
+      "detected_objects": [],
+      "caption": "a large boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcea.jpg",
+      "detected_objects": [],
+      "caption": "a man in a kayak pad paddling on a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfceb.jpg",
+      "detected_objects": [],
+      "caption": "two sailers in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcec.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a swimming pool",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfced.jpg",
+      "detected_objects": [],
+      "caption": "a group of people in a boat on a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcee.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of boats docked on a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcef.jpg",
+      "detected_objects": [],
+      "caption": "a boy running in the rain",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf0.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a black dress and a feather hat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf1.jpg",
+      "detected_objects": [],
+      "caption": "a group of people on a beach with palm trees",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf2.jpg",
+      "detected_objects": [],
+      "caption": "a boat sitting in a shed with a ladder",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf3.jpg",
+      "detected_objects": [],
+      "caption": "a pregnant woman in a black bikini top",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf4.jpg",
+      "detected_objects": [],
+      "caption": "a boat is traveling through the water near wind turbines",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf5.jpg",
+      "detected_objects": [],
+      "caption": "a young boy in a go kart racing car",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf6.jpg",
+      "detected_objects": [],
+      "caption": "a man in a kayak pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad pad",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf7.jpg",
+      "detected_objects": [],
+      "caption": "a small boat is in the water with trash",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf8.jpg",
+      "detected_objects": [],
+      "caption": "the pirate ship in the game",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcf9.jpg",
+      "detected_objects": [],
+      "caption": "a boat with people on it traveling through the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcfa.jpg",
+      "detected_objects": [
+        "Surfboard"
+      ],
+      "caption": "a man riding a wave on a surfboard",
+      "label": 1
+    },
+    {
+      "image": "68f8e6346c44524375bcfcfb.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked at a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcfc.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting on a rock near the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcfd.jpg",
+      "detected_objects": [],
+      "caption": "person in a bikini",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcfe.jpg",
+      "detected_objects": [],
+      "caption": "a bridge over a river with boats in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfcff.jpg",
+      "detected_objects": [],
+      "caption": "a canal with boats and buildings on both sides",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd00.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting in a chair next to a pool",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd01.jpg",
+      "detected_objects": [],
+      "caption": "a large boat is docked on the shore",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd02.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd03.jpg",
+      "detected_objects": [],
+      "caption": "a row of houses along a canal",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd04.jpg",
+      "detected_objects": [],
+      "caption": "a group of men standing on a boat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd05.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in a harbor at sunset",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd06.jpg",
+      "detected_objects": [],
+      "caption": "people are riding on a boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd07.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd08.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of boats on a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd09.jpg",
+      "detected_objects": [],
+      "caption": "a sail boat is in the water near a large white ball",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd0a.jpg",
+      "detected_objects": [],
+      "caption": "a cloudy sky",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd0b.jpg",
+      "detected_objects": [],
+      "caption": "boats docked at the marina",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd0c.jpg",
+      "detected_objects": [],
+      "caption": "a river with boats and a house on the other side",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd0d.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a white dress stands in front of a cruise ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcfd0e.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff29.jpg",
+      "detected_objects": [],
+      "caption": "a clear blue sky",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2a.jpg",
+      "detected_objects": [],
+      "caption": "a row of palm trees",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2b.jpg",
+      "detected_objects": [],
+      "caption": "a tattoo of a raven with a wreath around its neck",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2c.jpg",
+      "detected_objects": [],
+      "caption": "a large boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2d.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing in a boat on a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2e.jpg",
+      "detected_objects": [],
+      "caption": "the view from the roof of the building in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff2f.jpg",
+      "detected_objects": [],
+      "caption": "boats in the water near a city",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff30.jpg",
+      "detected_objects": [],
+      "caption": "a woman posing in a graffiti - covered area",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff31.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a bikini dancing on the beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e6346c44524375bcff32.jpg",
+      "detected_objects": [],
+      "caption": "a row of kays",
+      "label": 0
+    },
+    {
+      "image": "68f8e64f6c44524375bd030e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a castle with a boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd035b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boy wearing a green shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd035c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman is working on a sewing machine",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd035d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat is sitting on a ledge looking up at a tree",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd035e_neg.jpg",
+      "detected_objects": [],
+      "caption": "two fried fish cakes on a silver plate",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd035f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog and a cat are playing in the yard",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd043f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bicycle parked on the side of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0440_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat is looking at a plate of food",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0441_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of children sitting around a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0442_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat looking out of a window at a bird",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0443_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat laying on the floor in a room",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0444_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small toy is sitting on a pole",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0445_neg.jpg",
+      "detected_objects": [],
+      "caption": "a view of a patio with a table and chairs",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0446_neg.jpg",
+      "detected_objects": [],
+      "caption": "a motorcycle is parked next to a trailer",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0447_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man swinging a tennis racket",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0448_neg.jpg",
+      "detected_objects": [],
+      "caption": "a kitten sitting on a wooden bench",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0449_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a costume is holding a knife",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd044a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a glass of beer next to a bottle of beer",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd044c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a clay head",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd044d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man is standing under a palm tree",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd044e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy horse sitting on top of a cake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0450_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bunch of blue crabs in a cage",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0451_neg.jpg",
+      "detected_objects": [],
+      "caption": "a glass of wine on a table with a plate of food",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0453_neg.jpg",
+      "detected_objects": [],
+      "caption": "children playing in the fountain at the park",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0454_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man sitting at a table with a woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0455_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0456_neg.jpg",
+      "detected_objects": [],
+      "caption": "a fountain in the middle of a park",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0457_neg.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0458_neg.jpg",
+      "detected_objects": [],
+      "caption": "a crab on the beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0459_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bicycle is parked in the snow",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd045a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a gray coat and black boots is sitting on a red motorcycle",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd045b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pizza with a lot of toppings on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd045c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a panda bear eating bamboo sticks in a zoo",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd045d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a stuffed horse is sitting on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd045e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a wooden chair with a red umbrella and a hot tub",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0631_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lighthouse on a rock in the middle of the lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0632_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pile of fish",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0633_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large dinosaur skeleton",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0634_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man wearing a suit",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0635_neg.jpg",
+      "detected_objects": [],
+      "caption": "two pup are laying on the floor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0636_neg.jpg",
+      "detected_objects": [],
+      "caption": "a young girl with a dog on her shoulder",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0637_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting at a table with a laptop",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0638_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of cyclists riding down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0639_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat standing in front of a christmas tree",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd063a_neg.jpg",
+      "detected_objects": [],
+      "caption": "collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collagem collage",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd063b_neg.jpg",
+      "detected_objects": [],
+      "caption": "two people standing next to each other people",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd063d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman holding two pup in her arms",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd063f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man is holding a lego model",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0640_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man eating a salad at a restaurant",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0642_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black cat is inside of a bag",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0643_neg.jpg",
+      "detected_objects": [],
+      "caption": "two men standing next to a car in a field",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0644_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat in the ocean at sunset",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0645_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bottle of beer next to a plant",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0646_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cake with a slice missing from it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0647_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people walking down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0648_neg.jpg",
+      "detected_objects": [],
+      "caption": "a couple of people are reading a book",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people riding bikes on a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with bread and dips",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064c_neg.jpg",
+      "detected_objects": [],
+      "caption": "three ancient egyptian statues of the pharaohs",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a toy in his hand",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man in a white shirt",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd064f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in a flooded waterway",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0650_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cup of tea and a donut on a plate",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0651_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large stone sculpture of a group of people",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0652_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate with four pancakes on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0653_neg.jpg",
+      "detected_objects": [],
+      "caption": "a table full of legos",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0654_neg.jpg",
+      "detected_objects": [],
+      "caption": "the cave boy",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0655_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people playing music in a rock area",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0656_neg.jpg",
+      "detected_objects": [],
+      "caption": "hello kitty doll with bow",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0657_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with a fork on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0658_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a cat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0659_neg.jpg",
+      "detected_objects": [],
+      "caption": "a drawing of birds flying in the air",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat running in the snow",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a child is walking next to a white donkey",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065c_neg.jpg",
+      "detected_objects": [],
+      "caption": "people standing around a sign that says lemonade",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065d_neg.jpg",
+      "detected_objects": [],
+      "caption": "match match match match match match match match match match match match match match match match match match match match match",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog is sitting on the floor in a living room",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd065f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0660_neg.jpg",
+      "detected_objects": [],
+      "caption": "a girl holding a cat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0661_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog sitting on a rock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0662_neg.jpg",
+      "detected_objects": [],
+      "caption": "a postcard of a beach with boats and houses",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0663_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man walking down a narrow street under a bridge",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0664_neg.jpg",
+      "detected_objects": [],
+      "caption": "a metal sculpture with a bunch of shoes on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0665_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man standing on a dock looking out at the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0668_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing in front of a large brick building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0669_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large tree with green leaves",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll wearing a pink dress and black pants",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a mailbox in the grass with a mail box on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a bike on a beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a martini glass with a drink in it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066e_neg.jpg",
+      "detected_objects": [],
+      "caption": "a stone bridge",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd066f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of dolls sitting on top of a wooden table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0670_neg.jpg",
+      "detected_objects": [],
+      "caption": "a crowd of people holding signs and flags",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0671_neg.jpg",
+      "detected_objects": [],
+      "caption": "the water is blue",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0672_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat laying on the floor with its head on the floor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0673_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a black dress and a feather hat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0674_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people riding bikes on a trail",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0808_neg.jpg",
+      "detected_objects": [],
+      "caption": "two stings swimming in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd0809_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cup and saucer on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6506c44524375bd080a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a table",
+      "label": 0
+    }
+  ],
+  "Cultural_Excursions": [
+    {
+      "image": "68f8e68c6c44524375bd11c9.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a large building with a clock tower on top",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd11dd.jpg",
+      "detected_objects": [
+        "Castle",
+        "Tower"
+      ],
+      "caption": "a castle with a tower and a tree in the fore",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd11de.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a blue clock tower",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd11df.jpg",
+      "detected_objects": [],
+      "caption": "a city street with cars parked in front of a tall building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd11e0.jpg",
+      "detected_objects": [],
+      "caption": "the space needle at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd11e1.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a clock on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd1298.jpg",
+      "detected_objects": [],
+      "caption": "a small toy cat",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd1299.jpg",
+      "detected_objects": [],
+      "caption": "a crane is standing in a field of tall grass",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd129a.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man with a hat and a canel",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd129b.jpg",
+      "detected_objects": [],
+      "caption": "a crowd of people",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd129c.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd129d.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a statue of a bird sitting on a fountain",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd129e.jpg",
+      "detected_objects": [],
+      "caption": "a sunset view of the city of santiago, chile",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd129f.jpg",
+      "detected_objects": [],
+      "caption": "a stone statue in the middle of a field",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a0.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a fountain in the middle of a city",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a1.jpg",
+      "detected_objects": [],
+      "caption": "a group of birds sitting on a wooden post",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a2.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a fountain with a statue in the middle",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a3.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a fountain in a plaza with people sitting around it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a4.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man on a horse",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a5.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man on a horse",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a6.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man holding a child",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a7.jpg",
+      "detected_objects": [],
+      "caption": "a building on the side of a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a8.jpg",
+      "detected_objects": [
+        "Sculpture"
+      ],
+      "caption": "a metal sculpture with a bunch of shoes on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12a9.jpg",
+      "detected_objects": [],
+      "caption": "a factory with a lot of smoke coming out of it",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12aa.jpg",
+      "detected_objects": [
+        "Lighthouse"
+      ],
+      "caption": "a white and red lighthouse",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12ab.jpg",
+      "detected_objects": [
+        "Castle"
+      ],
+      "caption": "a castle on a hill",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12ac.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a clock on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12ad.jpg",
+      "detected_objects": [],
+      "caption": "a git is standing next to a git",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12ae.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a gorilla sitting on a ledge",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12af.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a large building with a clock tower on top of it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b0.jpg",
+      "detected_objects": [],
+      "caption": "a blue sky with white clouds",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b1.jpg",
+      "detected_objects": [],
+      "caption": "a group of people sitting on a brick floor",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b2.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man with a crown on his head",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b3.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a soccer field with a tall tower in the background",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b4.jpg",
+      "detected_objects": [],
+      "caption": "a large building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b5.jpg",
+      "detected_objects": [],
+      "caption": "a view of a city from a high vantage",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b6.jpg",
+      "detected_objects": [],
+      "caption": "the empire building at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b7.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a postcard with a fountain and a postcard with a postcard",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b8.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a clock on the top",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12b9.jpg",
+      "detected_objects": [
+        "Castle"
+      ],
+      "caption": "a castle with a lot of people walking around it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12ba.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a large fountain sphing water",
+      "label": 1
+    },
+    {
+      "image": "68f8e68c6c44524375bd12bb.jpg",
+      "detected_objects": [],
+      "caption": "a woman with a veil and a black hood",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12bc.jpg",
+      "detected_objects": [],
+      "caption": "the temple at sunset",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12bd.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man with a green hat",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12be.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a woman holding a child",
+      "label": 0
+    },
+    {
+      "image": "68f8e68c6c44524375bd12bf.jpg",
+      "detected_objects": [],
+      "caption": "a city street with a few cars and people",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd143f.jpg",
+      "detected_objects": [],
+      "caption": "the former building at the corner of person and person streets",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1440.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a woman holding a cross",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1441.jpg",
+      "detected_objects": [
+        "Sculpture"
+      ],
+      "caption": "a sculpture of a horned creature with horns and horns",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1442.jpg",
+      "detected_objects": [],
+      "caption": "a small brick building in a field of tall grass",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1443.jpg",
+      "detected_objects": [],
+      "caption": "a man standing on a balcony overlooking a city",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1444.jpg",
+      "detected_objects": [],
+      "caption": "a group of people are on the beach",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1445.jpg",
+      "detected_objects": [],
+      "caption": "a city skyline at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1446.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a man holding a woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1447.jpg",
+      "detected_objects": [],
+      "caption": "a tall building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1448.jpg",
+      "detected_objects": [],
+      "caption": "the courtyard at the resort at rancho rancho",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1449.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a clock tower on top of a building",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd144a.jpg",
+      "detected_objects": [],
+      "caption": "a man standing in the middle of a pond",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd144b.jpg",
+      "detected_objects": [],
+      "caption": "a black and white photo of a city at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd144c.jpg",
+      "detected_objects": [],
+      "caption": "a gargor on a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd144d.jpg",
+      "detected_objects": [],
+      "caption": "a view of a town",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd144e.jpg",
+      "detected_objects": [],
+      "caption": "a street light in the middle of a square",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd144f.jpg",
+      "detected_objects": [],
+      "caption": "a statue covered in snow",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1450.jpg",
+      "detected_objects": [],
+      "caption": "a large monument in the middle of a park",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1451.jpg",
+      "detected_objects": [],
+      "caption": "a group of people walking down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1452.jpg",
+      "detected_objects": [],
+      "caption": "a field with power lines and a cloudy sky",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1453.jpg",
+      "detected_objects": [],
+      "caption": "a large cathedral",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1454.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a tall tower with a clock on top",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1455.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a crane on top",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1456.jpg",
+      "detected_objects": [
+        "Castle",
+        "Tower"
+      ],
+      "caption": "a castle with a clock tower surrounded by trees",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1457.jpg",
+      "detected_objects": [],
+      "caption": "a small white church on a rocky cliff",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1458.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a woman holding a butterfly",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1459.jpg",
+      "detected_objects": [],
+      "caption": "a page from the lego book",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd145a.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a watercolor sketch of a fountain in the middle of a city",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd145b.jpg",
+      "detected_objects": [],
+      "caption": "a large building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd145c.jpg",
+      "detected_objects": [
+        "Sculpture"
+      ],
+      "caption": "a sculpture made of wood",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd145d.jpg",
+      "detected_objects": [],
+      "caption": "a city skyline at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd145e.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a young boy standing in front of a fountain",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd145f.jpg",
+      "detected_objects": [],
+      "caption": "the ruins of the ancient city of pomp",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1460.jpg",
+      "detected_objects": [],
+      "caption": "a dog and a cat are laying on a stone",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1461.jpg",
+      "detected_objects": [],
+      "caption": "a sprin of water sphing from a sprin of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1462.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1463.jpg",
+      "detected_objects": [],
+      "caption": "a clock on a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1464.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a fountain with a statue in the middle of it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1465.jpg",
+      "detected_objects": [],
+      "caption": "the world ' s tallest building, the one world trade center, is seen from the top of the world",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1466.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a pond with a fountain in the middle of it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1467.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a woman sitting on a rock",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1468.jpg",
+      "detected_objects": [
+        "Castle"
+      ],
+      "caption": "a man in a suit and sunglasses standing in front of a castle",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1469.jpg",
+      "detected_objects": [],
+      "caption": "a church in the middle of a city",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146a.jpg",
+      "detected_objects": [],
+      "caption": "a stone wall",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146b.jpg",
+      "detected_objects": [],
+      "caption": "a garden with a path through it",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146c.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a horse in the courtyard of the temple",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146d.jpg",
+      "detected_objects": [],
+      "caption": "a tall building with a clock on the top",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146e.jpg",
+      "detected_objects": [],
+      "caption": "a view of a city from a hill",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd146f.jpg",
+      "detected_objects": [],
+      "caption": "a statue of a lion",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1470.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a tall tower with a clock on it",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1471.jpg",
+      "detected_objects": [
+        "Fountain"
+      ],
+      "caption": "a large green whale statue in the middle of a fountain",
+      "label": 1
+    },
+    {
+      "image": "68f8e68d6c44524375bd1472.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1473.jpg",
+      "detected_objects": [],
+      "caption": "a woman standing next to a statue of a man on a horse",
+      "label": 0
+    },
+    {
+      "image": "68f8e68d6c44524375bd1474.jpg",
+      "detected_objects": [],
+      "caption": "a body of water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd190a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people sitting at a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd191a_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small boat in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd191b_neg.jpg",
+      "detected_objects": [],
+      "caption": "a sticker on a bottle of wine",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd191c_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black dog with a white collar",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd191d_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat is in the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people standing around a yellow tent",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man standing next to a table with drinks",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of cats sitting on top of a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pizza with toppings",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a che che che che che che che che che che che che che che che che che che che che",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a santa claus on a bicycle",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll is laying on a bed",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19c9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a girl standing next to a mascot",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19ca_neg.jpg",
+      "detected_objects": [],
+      "caption": "match match match match match match match match match match match match match match match match match match match match match",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19cc_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of anime figuris sitting on a table",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19cd_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat travels down the canal in the ancient city of hoi an",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19cf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a paved path",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a fishing rod",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a gym with a lot of equipment",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black dog standing in the snow",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person is sitting in the grass looking at the sun",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small dog laying on a leopard print pillow",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large ship in the middle of the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person holding up a book in their hand",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white boat with a blue sky in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people riding bikes on a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19d9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a seagul on the dock at the end of the pier",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19da_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat with a white face and brown eyes",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19dc_neg.jpg",
+      "detected_objects": [],
+      "caption": "gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam gundam",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19dd_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat is floating in the water at sunset",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19df_neg.jpg",
+      "detected_objects": [],
+      "caption": "a school bus parked behind a chain link fence",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd19e0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a view of a street with cars and a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1b9f_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat is docked in the water near a dock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog is standing behind a fence",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small kitten with blue eyes being held in a person ' s hand",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog wearing a red shirt on a blanket",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a fish",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a couple of people are in small boats",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a white plate with a salad on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat sleeping on a bed",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a doll with long hair and a purple dress",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1ba9_neg.jpg",
+      "detected_objects": [],
+      "caption": "two salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt salt",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1baa_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pizza with meat and cheese on a pan",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bab_neg.jpg",
+      "detected_objects": [],
+      "caption": "a little girl holding a cat on top of a box",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bad_neg.jpg",
+      "detected_objects": [],
+      "caption": "a display of wooden toy figures",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bae_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of children standing in a gym",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1baf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a little girl in the ocean",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a city at night",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a swan boat is docked in a marina",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a large building with many windows",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a lego man is sitting on a rock",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb4_neg.jpg",
+      "detected_objects": [],
+      "caption": "two figuris of a man and a woman",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb5_neg.jpg",
+      "detected_objects": [],
+      "caption": "two dogs standing in a pool with a person in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a person riding a motorcycle down a street",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bottle of soda",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a small dog running across a lush green field",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bb9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a model of a city with a giant building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bba_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat docked in a harbor",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bbb_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy train with a man in it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bbc_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pan of meat and chopped green onions",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bbd_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat standing on the windshield of a car",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bbe_neg.jpg",
+      "detected_objects": [],
+      "caption": "a boat on the water",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bbf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bottle of beer next to a glass of beer",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc0_neg.jpg",
+      "detected_objects": [],
+      "caption": "the cyntats by peter o ' s",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a wine cooler with bottles of wine in it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black and white cat",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc3_neg.jpg",
+      "detected_objects": [],
+      "caption": "lego technic monster truck instructions",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pool with a waterfall in the middle",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a row of palm trees",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a boat on a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a jet ski on a lake",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bc9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a black bear is playing in a stream",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bca_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of people in a river with a dog",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bcb_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tree with lots of flowers growing on it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bcc_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman holding a wii game controller",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bcd_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cat is sleeping on a couch in a living room",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bcf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman in a white dress stands in front of a cruise ship",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd0_neg.jpg",
+      "detected_objects": [],
+      "caption": "the water park at disneyland world",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd1_neg.jpg",
+      "detected_objects": [],
+      "caption": "two white flowers with green leaves in the background",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a blue toy plane with a green and black propeller",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a cup of coffee",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd5_neg.jpg",
+      "detected_objects": [],
+      "caption": "a view of a city from a high viewpoint",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a tree in front of a building",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a bowl of soup with a spoon and spoon",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a plate of food with a fork in it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bd9_neg.jpg",
+      "detected_objects": [],
+      "caption": "a woman sitting in a chair with a dog",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bda_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy of a white monkey",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bdd_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man riding a bike down a dirt trail",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bde_neg.jpg",
+      "detected_objects": [
+        "Tower"
+      ],
+      "caption": "a white clock tower",
+      "label": 1
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1bdf_neg.jpg",
+      "detected_objects": [],
+      "caption": "a row of houses along a river",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be0_neg.jpg",
+      "detected_objects": [],
+      "caption": "a pair of shoes with a watch on them",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be1_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man holding a box of cereal",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be2_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dog laying in the grass with a bunch of corn",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be3_neg.jpg",
+      "detected_objects": [],
+      "caption": "a dessert with a chocolate dessert in it",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be4_neg.jpg",
+      "detected_objects": [],
+      "caption": "a toy car with a painted design on the side",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be5_neg.jpg",
+      "detected_objects": [],
+      "caption": "pancakes with blueberry sauce on a plate",
+      "label": 0
+    },
+    {
+      "image": "68f8e6aa6c44524375bd1be7_neg.jpg",
+      "detected_objects": [],
+      "caption": "the boat is white",
+      "label": 0
+    },
+    {
+      "image": "68f8e6ab6c44524375bd1db6_neg.jpg",
+      "detected_objects": [],
+      "caption": "a group of children are preparing food for a meal",
+      "label": 0
+    },
+    {
+      "image": "68f8e6ab6c44524375bd1db7_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man standing on a stage",
+      "label": 0
+    },
+    {
+      "image": "68f8e6ab6c44524375bd1db8_neg.jpg",
+      "detected_objects": [],
+      "caption": "a man and woman sitting at a table",
+      "label": 0
+    }
+  ]
+}

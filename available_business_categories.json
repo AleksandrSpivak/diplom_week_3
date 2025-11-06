@@ -1,0 +1,53 @@
+{
+  "Catering": [
+    "Wine",
+    "Wine glass",
+    "Beer",
+    "Cocktail",
+    "Dessert",
+    "Cake",
+    "Kitchen knife",
+    "Bowl",
+    "Coffee",
+    "Coffee cup",
+    "Teapot",
+    "Pancake",
+    "Waffle",
+    "Croissant",
+    "Bread",
+    "Cheese",
+    "Pizza",
+    "Pasta",
+    "Hamburger",
+    "French fries",
+    "Salad",
+    "Sushi",
+    "Guacamole",
+    "Serving tray",
+    "Bottle opener",
+    "Bagel",
+    "Burrito",
+    "Cocktail shaker",
+    "Pretzel",
+    "Salt and pepper shakers",
+    "Seafood"
+  ],
+  "Marine_Activities": [
+    "Jet ski",
+    "Swimwear",
+    "Watercraft",
+    "Surfboard",
+    "Paddle"
+  ],
+  "Cultural_Excursions": [
+    "Castle",
+    "Lighthouse",
+    "Fountain",
+    "Sculpture",
+    "Tower"
+  ],
+  "Pet-Friendly Services": [
+    "Dog",
+    "Cat"
+  ]
+}
